@@ -8,7 +8,7 @@ import os
 BOT_TOKEN = os.getenv("BOT_TOKEN", "8717009668:AAFxswqmtlUPqJ1GA4-qSJOWhW9RgwKZBfM")
 
 # مفتاح مزود الأرقام (Hero SMS)
-HERO_SMS_API_KEY = os.getenv("HERO_SMS_API_KEY", "b3040375cf393b48dfce23793c4efb2d")
+HERO_SMS_API_KEY = os.getenv("HERO_SMS_API_KEY", "67ef5b751b1A4f2bef57dAd7bA2A248c")
 
 # معرف المدير (ID)
 ADMIN_ID = os.getenv("ADMIN_ID", "8097770003")
