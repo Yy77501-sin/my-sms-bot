@@ -5,7 +5,7 @@ import os
 # -------------------------------------------------------------
 
 # توكن البوت الجديد الآمن
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8717009668:AAE07ahqxrBFpgto2RJ0R8Kha9WEpofxS74")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8717009668:AAFxswqmtlUPqJ1GA4-qSJOWhW9RgwKZBfM")
 
 # مفتاح مزود الأرقام (Hero SMS)
 HERO_SMS_API_KEY = os.getenv("HERO_SMS_API_KEY", "b3040375cf393b48dfce23793c4efb2d")
