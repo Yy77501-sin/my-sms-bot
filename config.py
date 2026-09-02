@@ -1,6 +1,6 @@
 import os
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8998307482:AAHlUFDu0E_0ltdVQVEGQ5z2pats24kK3rU").strip()
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8998307482:AAGW3woMPiD5fuMnQuCvQh6z_2GTa5Wsu6w").strip()
 ADMIN_ID = str(os.getenv("ADMIN_ID", "8097770003")).strip()
 SUPPORT_USERNAME = os.getenv("SUPPORT_USERNAME", "Yas_in7").strip()
 CURRENCY = "$"
